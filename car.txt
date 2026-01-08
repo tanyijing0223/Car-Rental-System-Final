@@ -1,0 +1,10 @@
+1 Perodua_Myvi Blue 100 Auto 7
+2 Honda_Civic White 250 Auto 6
+3 Perodua_Axia Silver 80 Auto 5
+4 Toyota_Vios Black 150 Auto 7
+5 Proton_X70 Red 300 Auto 6
+6 Proton_Saga Grey 90 Manual 3
+7 Proton_Alza White 180 Auto 3
+8 Toyota_Hilux Silver 350 Manual 4
+9 Honda_City Blue 160 Auto 7
+10 Honda_Accord Black 400 Auto 0
