@@ -76,7 +76,7 @@ void customerRegister() {
         return;}
 
     //Ask for customer contact number
-    cout << "Enter Contact (without "-"): "; cin >> c.contact;
+    cout << "Enter Contact (without -): "; cin >> c.contact;
     while (!isValidContact(c.contact)){
         cout << "\nInvalid Contact. It must be only in digits.";
         cout << "\nEnter Contact again:";
@@ -116,4 +116,5 @@ void customerLogin() {
     else { 
         cout << "\nWrong IC or Password. \nPress enter to return to the main menu..."; 
         cin.ignore(); cin.get();}
+
 }
